@@ -72,7 +72,7 @@ You should the tunnel traffic:
    * The frontend (Next.js) will be available at `http://localhost:3000` and at ngrok url endpoint.
 
 ## Additional Resources
-* [Getting started with Zoom Apps SDK codelab](https://just-zoomit.github.io/get-started-with-zoomapps-sdk/#0)
+* [Getting started with Zoom Contact Center Apps codelab](https://just-zoomit.github.io/zcc-get-started-codelab/#0)
   
 ## License
 
