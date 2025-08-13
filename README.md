@@ -56,8 +56,8 @@ You should the tunnel traffic:
 1. **Clone the repository and install dependencies**:
 
    ```bash
-   git clone https://github.com/just-zoomit/zoomapps-nextjs-sample.git
-   cd zoomapps-nextjs-sample
+   git clone https://github.com/just-zoomit/zcc-nextjs-sample.git
+   cd zcc-nextjs-sample
    npm install
    ```
 
